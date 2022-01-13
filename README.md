@@ -18,3 +18,8 @@ activate ./env
 or
 source activate ./env
 ```
+### to create a directory in git bashs
+```
+mkdir Research_env
+```
+
